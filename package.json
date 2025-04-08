@@ -1,7 +1,7 @@
 {
   "name": "ems",
   "private": true,
-  "homepage": "https://AbdulnAzeem.github.io/React-Project",
+  "homepage": "https://abdulnazeem.github.io/React-Project",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
@@ -25,7 +25,6 @@
     "eslint-plugin-react": "^7.34.1",
     "eslint-plugin-react-hooks": "^4.6.0",
     "eslint-plugin-react-refresh": "^0.4.6",
-    "gh-pages": "^6.3.0",
     "postcss": "^8.4.47",
     "tailwindcss": "^3.4.13",
     "vite": "^6.2.5"
